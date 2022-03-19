@@ -1,4 +1,4 @@
-# Facebook Clone App
+# Real Estate App
 ## Project description
 
 ### Technology: 
@@ -10,7 +10,9 @@
 * Allow users to view properties for rent.
 * Allow users to view properties for sake.
 * Allow users to search properties by filters like: 
-  ** Purpose
+  ```sh
+   Purpose
+   ```
   ** Rent Frequency
   ** Min Price(BDT)
   ** Max Price(BDT)
