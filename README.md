@@ -10,7 +10,7 @@
 * Allow users to view properties for rent.
 * Allow users to view properties for sake.
 * Allow users to search properties by filters like: 
-  <ol>
+  <ul>
     <li>Purpose</li>
     <li>Rent Frequency</li>
     <li>Min Price(BDT)</li>
@@ -20,16 +20,17 @@
     <li>Baths</li>
     <li>Furnish Type</li>
     <li>Property Type</li>
-  </ol>
+  </ul>
 
 * Allow users to sort properties by:
-  <ol>
+  <ul>
     <li>Lowest Price</li>
     <li>Highest Price</li>
     <li>Newest</li>
     <li>Oldest</li>
     <li>Verified</li>
     <li>City Level</li>
+  </ul>
 * Allow users to search properties by location
 
 ### Live link: https://real-estate-mauve.vercel.app/
